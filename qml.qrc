@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Loader2.qml</file>
+        <file>RedirectTest.qml</file>
+    </qresource>
+</RCC>

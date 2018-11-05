@@ -1,0 +1,6 @@
+[submodule "Networking"]
+	path = Networking
+	url = git@github.com:stephenquan/Networking
+[submodule "Engine"]
+	path = Engine
+	url = git@github.com:stephenquan/Engine
